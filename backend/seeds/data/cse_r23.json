@@ -1,0 +1,554 @@
+[
+  {
+    "subjectCode": "23MAT01",
+    "subjectName": "Linear Algebra and Calculus",
+    "credits": 3,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CHE01",
+    "subjectName": "Chemistry",
+    "credits": 3,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23ENG01",
+    "subjectName": "Communicative English",
+    "credits": 2,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE101",
+    "subjectName": "Introduction to Programming",
+    "credits": 3,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CIV01",
+    "subjectName": "Basic Civil and Mechanical Engineering",
+    "credits": 3,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CHE02",
+    "subjectName": "Chemistry Lab",
+    "credits": 1,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23ENG02",
+    "subjectName": "Communicative English Lab",
+    "credits": 1,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE102",
+    "subjectName": "Computer Programming Lab",
+    "credits": 1.5,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MEC102",
+    "subjectName": "Engineering Workshop",
+    "credits": 1.5,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23HSM01",
+    "subjectName": "Health and Wellness, Yoga and Sports",
+    "credits": 0.5,
+    "semester": 1,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MAT02",
+    "subjectName": "Differential Equations and Vector Calculus",
+    "credits": 3,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23PHY01",
+    "subjectName": "Engineering Physics",
+    "credits": 3,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23EEE101",
+    "subjectName": "Basic Electrical and Electronics Engineering",
+    "credits": 3,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MEC101",
+    "subjectName": "Engineering Graphics",
+    "credits": 3,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE201",
+    "subjectName": "Data Structures",
+    "credits": 3,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23PHY02",
+    "subjectName": "Engineering Physics Lab",
+    "credits": 1,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23EEE102",
+    "subjectName": "Electrical and Electronics Engineering Workshop",
+    "credits": 1.5,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE202",
+    "subjectName": "Data Structures Lab",
+    "credits": 1.5,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE103",
+    "subjectName": "IT Workshop",
+    "credits": 1,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23HSM02",
+    "subjectName": "NSS / NCC / Scouts and Guides / Community Service",
+    "credits": 0.5,
+    "semester": 2,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MAT07",
+    "subjectName": "Discrete Mathematics and Graph Theory",
+    "credits": 3,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23UHV01",
+    "subjectName": "Universal Human Values – Understanding",
+    "credits": 3,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23ECE307",
+    "subjectName": "Digital Logic and Computer Organization",
+    "credits": 3,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE301",
+    "subjectName": "Advanced Data Structures and Algorithm Analysis",
+    "credits": 3,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE302",
+    "subjectName": "Database Management Systems",
+    "credits": 3,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE303",
+    "subjectName": "Advanced Data Structures and Algorithm Analysis Lab",
+    "credits": 1.5,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE304",
+    "subjectName": "Database Management Systems Lab",
+    "credits": 1.5,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE305",
+    "subjectName": "Skill Enhancement Course – I",
+    "credits": 2,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23NCMC01",
+    "subjectName": "Environmental Science",
+    "credits": 0,
+    "semester": 3,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MSC02",
+    "subjectName": "Organizational Behavior",
+    "credits": 2,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MAT09",
+    "subjectName": "Probability & Statistics",
+    "credits": 3,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE401",
+    "subjectName": "Object Oriented Programming Through Java",
+    "credits": 3,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE402",
+    "subjectName": "Operating Systems",
+    "credits": 3,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE403",
+    "subjectName": "Software Engineering",
+    "credits": 3,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE404",
+    "subjectName": "Object Oriented Programming Through Java Lab",
+    "credits": 1.5,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE405",
+    "subjectName": "Operating Systems Lab",
+    "credits": 1.5,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE406",
+    "subjectName": "Skill Enhancement Course -II",
+    "credits": 2,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MEC408",
+    "subjectName": "Design Thinking & Innovation",
+    "credits": 2,
+    "semester": 4,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE501",
+    "subjectName": "Artificial Intelligence and Expert Systems",
+    "credits": 3,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE502",
+    "subjectName": "Computer Networks",
+    "credits": 3,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE503",
+    "subjectName": "Automata Theory and Compiler Design",
+    "credits": 3,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23PHY03",
+    "subjectName": "Introduction to Quantum Technologies and Applications",
+    "credits": 3,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE504",
+    "subjectName": "Object Oriented Analysis and Design",
+    "credits": 3,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MSC05",
+    "subjectName": "Entrepreneurship And New Venture Creation",
+    "credits": 3,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE510",
+    "subjectName": "Artificial Intelligence and Expert Systems Lab",
+    "credits": 1.5,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE511",
+    "subjectName": "Computer Networks Lab",
+    "credits": 1.5,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE512",
+    "subjectName": "Skill Enhancement course -III",
+    "credits": 2,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23ECE511",
+    "subjectName": "Tinkering Lab",
+    "credits": 1,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE513",
+    "subjectName": "Evaluation of Internship",
+    "credits": 2,
+    "semester": 5,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE601",
+    "subjectName": "Machine Learning Essentials",
+    "credits": 3,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE602",
+    "subjectName": "Cloud Computing",
+    "credits": 3,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE603",
+    "subjectName": "Cryptography & Network Security",
+    "credits": 3,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE606",
+    "subjectName": "DevOps",
+    "credits": 3,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE608",
+    "subjectName": "Software Project Management",
+    "credits": 3,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23ENG04",
+    "subjectName": "Academic Writing and Public Speaking",
+    "credits": 3,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE613",
+    "subjectName": "Machine Learning Essentials Lab",
+    "credits": 1.5,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE614",
+    "subjectName": "Cryptography & Network Security Lab",
+    "credits": 1.5,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE615",
+    "subjectName": "Skill Enhancement Course ",
+    "credits": 2,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23NCMC03",
+    "subjectName": "Technical Paper Writing & IPR",
+    "credits": 0,
+    "semester": 6,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE701",
+    "subjectName": "Deep Learning",
+    "credits": 3,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23MCS05",
+    "subjectName": "Management Course- II",
+    "credits": 2,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE702",
+    "subjectName": "Professional Elective-IV",
+    "credits": 3,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE706",
+    "subjectName": "Professional Elective-V",
+    "credits": 3,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23ENG05",
+    "subjectName": "Open Elective-III",
+    "credits": 3,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23ENG06",
+    "subjectName": "Open Elective-IV",
+    "credits": 3,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSM714",
+    "subjectName": "Prompt Engineering",
+    "credits": 2,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23NCMC02",
+    "subjectName": "Gender Sensitization ",
+    "credits": 0,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE514",
+    "subjectName": "Evaluation of Community Service Internship",
+    "credits": 2,
+    "semester": 7,
+    "branch": "CSE",
+    "regulation": "R23"
+  },
+  {
+    "subjectCode": "23CSE801",
+    "subjectName": "Internship and Project",
+    "credits": 12,
+    "semester": 8,
+    "branch": "CSE",
+    "regulation": "R23"
+  }
+]
